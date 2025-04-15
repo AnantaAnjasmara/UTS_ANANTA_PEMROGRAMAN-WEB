@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Button from "./atom/button";
+import Button from "../atom/button";
 
 export default function Hero() {
   return (

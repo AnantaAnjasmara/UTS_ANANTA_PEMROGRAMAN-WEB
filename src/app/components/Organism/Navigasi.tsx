@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import Button from "./atom/button";
+import Button from "../atom/button";
 
 export default function Navigasi() {
   return (

@@ -1,5 +1,5 @@
 "use client";
-import Button from "./atom/button";
+import Button from "../atom/button";
 
 export default function Cta() {
   return (
